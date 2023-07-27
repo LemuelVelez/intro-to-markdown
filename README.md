@@ -53,3 +53,12 @@ This an example of a *text with an asterisk*. When we don't want it to be italic
 > We use the greater than symbol to display a block of text as a quote with a background and line on the left side.
 
 > *"You don't have to be great to start, but you need to start to be great."* - __Unknown Author__ 
+___
+
+<!--Link Rule-->
+
+**NOTE**: We would want to put the link description inside of square brackets and the link to the resource inside of two open and close parenthesis 
+[KG-2023/Activity-Images-2023](https://github.com/KG-2023/Activity-Images-2023)
+
+__NOTE__: We can add a baloon tip description to our link using double quotes after the link to the resource.
+[KG-2023/Activity-Images-2023](https://github.com/KG-2023/Activity-Images-2023 "This is KG-2023/Activity-Images-2023")
