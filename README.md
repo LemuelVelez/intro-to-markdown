@@ -163,3 +163,16 @@ def pythonAdd(num1,num2):
      return total;
    }
 ```
+
+---
+
+<!--Table rules-->
+
+| Name | Nickname | Email              |
+|------|----------|--------------------|
+|John  | Jo       | john@gmail.com     |
+|Rod   | Elcid    | testCid@gmail.com  |
+|Bart  | CoolKid  | testBart@gmail.com |
+
+---
+
