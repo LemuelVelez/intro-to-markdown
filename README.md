@@ -62,3 +62,58 @@ ___
 
 __NOTE__: We can add a baloon tip description to our link using double quotes after the link to the resource.
 [KG-2023/Activity-Images-2023](https://github.com/KG-2023/Activity-Images-2023 "This is KG-2023/Activity-Images-2023")
+
+---
+
+<!--List Item Rules-->
+
+<!--UNORDERED LIST-->
+
+* Item 1 - this is going to be our list item 1
+  * This is our list item 1 child item 1
+  * This is our list item 1 child item 2
+* Item 2 - this is going to be our list item 2
+  * This is our list item 2 child item 1
+  * This is our list item 2 child item 2
+* Item 3 - this is going to be our list item 1
+  * This is our list item 3 child item 1
+  * This is our list item 3 child item 2
+* Item 4 - this is going to be our list item 1
+  * This is our list item 4 child item 1
+  * This is our list item 4 child item 2
+* Item 5 - this is going to be our list item 1
+  * This is our list item 5 child item 1
+  * This is our list item 5 child item 2
+
+<!--ORDERED LISTS-->
+1. Item 1 - this is going to be our list item 1
+   
+   1.1 This is our list item 1 child item 1
+   
+   1.2 This is our list item 1 child item 2
+   
+2. Item 2 - this is going to be our list item 2
+   
+   2.1 This is our list item 2 child item 1
+   
+   2.2 This is our list item 2 child item 2
+   
+3. Item 3 - this is going to be our list item 3
+   
+   3.1 This is our list item 3 child item 1
+   
+   3.2 This is our list item 3 child item 2
+   
+4. Item 1 - this is going to be our list item 4
+    
+   4.1 This is our list item 4 child item 1
+    
+   4.2 This is our list item 4 child item 2
+   
+5. Item 5 - this is going to be our list item 5
+   
+   5.1 This is our list item 5 child item 1
+   
+   5.2 This is our list item 5 child item 2
+
+---
